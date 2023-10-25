@@ -1,0 +1,19 @@
+@import url("components/banner.css");
+@import url('components/section.css');
+@import url('components/button.css');
+@import url('components/card.css');
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4CAF50;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
